@@ -1,5 +1,5 @@
 # Python_ML
-Machine Learning Methods for Software Bug Data Sets
+Machine Learning Perdictions on selected features for Software Bug Data Sets
 
 A detailed comparative performance analysis of different machine learning techniques is being
 explored for software bug prediction on public available data sets. Machine learning techniques 
