@@ -21,6 +21,9 @@ Precision = TP / (TP+FP)
 Data Set	Naye Bayes	MLP	SVM	J48	Bagging	Decision Tree	Random Forest
 AR1	83.45	89.55	91.97	90.15	92.23	89.32	90.15	
 
+
+
+
 Data Source	Algotihim	Attributes	Infogain	Correlation_C	Gain Ratio	Infogain	Correlation_P	Gain Ratio
 Defect ar1	J48	29	90.08	90.08	90.08		93.9	93.9	95.7
 		25	90.08	91.37	90.08		93.9	93.9	93.9
